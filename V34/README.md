@@ -11,6 +11,9 @@ Veckans uppgift var att sätta upp en virtuell maskin i Azure och driftsätta No
 - Anslöt till maskinen via SSH
 - Installerade nginx som webbserver
 - Öppnade port 80 i nätverkssäkerhetsgruppen
+  
+ ![Port 80](/V34/vm-info/port80.JPG)
+  
 - Driftsatte kundtjänstsidan med ärendeformuläret
 - Verifierade att sidan visas i webbläsaren
 - Kommandon
