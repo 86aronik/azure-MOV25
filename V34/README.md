@@ -38,7 +38,40 @@ Gick in i /var/www/html i terminalen öppnade redigering suno nano index.html oc
 
 - Verifierade att sidan visas i webbläsaren
 
+  Surfar in på http://20.240.204.16/
+
+  ![web](/V34/vm-info/webserv.JPG)
+
 - HTML kod
 
+```html
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Novatrix AB</title>
+</head>
+<body>
 
+    <h1>Novatrix AB</h1>
+
+    <h2>Ärendeformulär</h2>
+
+    <form>
+        <label for="namn">Namn:</label><br>
+        <input type="text" id="namn" name="namn" required><br><br>
+
+        <label for="email">E-post:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="meddelande">Meddelande:</label><br>
+        <textarea id="meddelande" name="meddelande" rows="6" required></textarea><br><br>
+
+        <button type="submit">Skicka</button>
+    </form>
+
+</body>
+</html>
+```
 
