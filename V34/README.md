@@ -8,6 +8,9 @@ Veckans uppgift var att sätta upp en virtuell maskin i Azure och driftsätta No
 
 ## Vad jag gjorde
 - Skapade en resursgrupp och en virtuell maskin (Ubuntu, storlek B2ats_v2)
+ 
+  ![vm](/V34/vm-info/vm.JPG)
+  
 - Anslöt till maskinen via SSH
 - Installerade nginx som webbserver
 - Öppnade port 80 i nätverkssäkerhetsgruppen
