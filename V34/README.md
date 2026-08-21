@@ -4,7 +4,7 @@
 
 
 
-- `# Rubrik` v34 - Compute: driftsättning av Novatrix kundtjänst
+# Rubrik` v34 - Compute: driftsättning av Novatrix kundtjänst
 
 Aron Niklasson
 
