@@ -21,6 +21,15 @@ Authentisering till github via gh auth login
 
   ![res](/V34/vm-info/resursgrupp.JPG)
   ![vm](/V34/vm-info/vm.JPG)
+
+  Sparade nyckeln lokalt och satte rättigheter:
+
+  D:\Misc\Jobb\MOV25
+  
+  icacls .\vm-novatrix-web_key.pem /inheritance:r
+  
+  icacls .\vm-novatrix-web_key.pem /grant:r "$($env:USERNAME):R"
+  
   
 - Anslöt till maskinen via SSH
 
