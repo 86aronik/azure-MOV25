@@ -4,11 +4,11 @@
 
 
 
-# Rubrik` v34 - Compute: driftsättning av Novatrix kundtjänst
+# v34 - Compute: driftsättning av Novatrix kundtjänst
 
 Aron Niklasson
 
-Syfte
+## Syfte
 
 Veckans uppgift var att sätta upp en virtuell maskin i Azure och driftsätta Novatrix kundtjänstsida med ett ärendeformulär, samt versionshantera allt i GitHub.
 
