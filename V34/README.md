@@ -1,6 +1,6 @@
 # v34 - Compute: driftsättning av Novatrix kundtjänst
 
-Aron Niklasson
+Aron Niklasson Azure v34
 
 ## Syfte
 
