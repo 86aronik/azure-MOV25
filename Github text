@@ -1,0 +1,9 @@
+### Vanliga saker du kan använda
+
+- `# Rubrik` → stor rubrik
+- `## Underrubrik` → mindre rubrik
+- Vanlig text → skriv bara texten
+- `**fet text**` → **fet text**
+- `*kursiv text*` → *kursiv text*
+- `- punkt` → punktlista
+- `` `kommando` `` → markerat kommando
